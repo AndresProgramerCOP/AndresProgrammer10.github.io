@@ -1,5 +1,5 @@
 Title: Programación para ingenieros diferentes a ing de Sistemas, Software, entre otros
-
+Date: 13-09-2021
 Status: draft
 # ¿PORQUE SI ERES INGENIERO DEBES SABER PROGRAMACIÓN?
 

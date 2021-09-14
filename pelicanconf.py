@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
+# -* Variables de entorno *-
 AUTHOR = 'Andres Babilonia'
 SITENAME = 'Portfolio Andres Programmer'
 SITEURL = ''
 
+# -* Variables de directorios o carpetas folders
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
 
@@ -26,7 +28,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('LinkID', '#'),
           ('Facebook', '#'),)
 
 DEFAULT_PAGINATION = 7
