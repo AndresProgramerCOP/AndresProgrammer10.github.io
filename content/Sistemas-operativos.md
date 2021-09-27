@@ -1,7 +1,7 @@
 Title: Sistemas Operativos
 Date: 2021-09-27
 
-# Hola julina lee todo el articulo
+# Hola julian lee todo el articulo
 
 # ¿Que son los sistemas operativos?
 
@@ -9,7 +9,7 @@ Son el programa que usamos para encender un computador, en la actualidad existen
 
 ## Windows
 
-Es el mas popular para operaciones comunes, para las personas con nulo conocimiento basico de programas e informatica, este sistema operatico hay una empresa detras de este sistema operativo.
+Es el S.O. mas popular para operaciones comunes, para las personas con nulo o poco conocimiento basico de programas e informatica, este sistema operativo hay una empresa detras de este sistema operativo.
 
 ## Linux
 
