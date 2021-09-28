@@ -6,8 +6,8 @@ For visit de web site static see:
 
 # Install
 
-pip install -requirements
+`pip install -requirements`
 
 # Build
 
-invoke build
+`invoke build`
