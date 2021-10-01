@@ -3,7 +3,7 @@ My portfolio 2, with Python Pelican
 
 For visit de web site static see:
 
-github.io
+https://andresprogrammer10.github.io/
 
 # Install
 
